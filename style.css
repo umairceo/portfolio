@@ -69,7 +69,7 @@ span{
 .profile{
     width: 200px;
     border-radius: 250px;
-    margin-left: 500px;
+    margin-left: -500px;
     border: 10px solid #f6c55f;
 
 }
